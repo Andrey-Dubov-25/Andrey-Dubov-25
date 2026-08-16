@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Андрей 👋</h1>
-<h3 align="center">Backend-разработчик | Python, Django, FastAPI</h3>
+<h3 align="center">Backend-разработчик | Python, Django, FastAPI, Flask</h3>
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -45,43 +45,27 @@
 
 ### 📌 Проекты
 
-**[Guild Quest Board](https://github.com/Andrey-Dubov-25)**
+**[Guild Quest Board](https://github.com/Andrey-Dubov-25/guild_quest_board)**
 Backend-сервис для доски квестов фэнтези-гильдии на Django + DRF с PostgreSQL. Запуск через Docker Compose, документация API (Redoc), тесты бизнес-процессов.
 `Python` `Django (DRF)` `Pytest` `PostgreSQL` `Docker` `Redoc`
 
-**[MyLibrary](https://github.com/Andrey-Dubov-25)**
+**[MyLibrary](https://github.com/Andrey-Dubov-25/my_library)**
 REST API для управления списком книг: добавление, поиск, обновление и удаление записей.
 `Python` `FastAPI` `SQLAlchemy` `aiosqlite`
 
-**[Foodgram](https://github.com/Andrey-Dubov-25)**
+**[Foodgram](https://github.com/Andrey-Dubov-25/foodgram)**
 Веб-API сервиса публикации рецептов для интеграции фронтенда и бэкенда, обмен данными в формате JSON.
 `Python` `Django (DRF)` `PostgreSQL` `Docker` `CI/CD`
 
-**[Grocery Store](https://github.com/Andrey-Dubov-25)**
+**[Grocery Store](https://github.com/Andrey-Dubov-25/grocery_store)**
 Backend-сервис продуктового магазина на Django + DRF с PostgreSQL, документация API (Swagger), тесты.
 `Python` `Django (DRF)` `Pytest` `PostgreSQL` `Docker` `Redoc`
 
-**[Departments](https://github.com/Andrey-Dubov-25)**
+**[Departments](https://github.com/Andrey-Dubov-25/departments)**
 API для управления подразделениями и сотрудниками: защита от циклических ссылок, каскадное удаление, построение дерева подразделений рекурсивным подходом.
 `Python` `Django (DRF)` `Pytest` `PostgreSQL` `Docker` `Redoc`
 
 📂 Полный список проектов — в [портфолио](https://github.com/Andrey-Dubov-25/portfolio)
-
----
-
-### 📊 GitHub-статистика
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Andrey-Dubov-25&show_icons=true&theme=default" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Dubov-25&layout=compact" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Dubov-25" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrey-Dubov-25&label=Просмотры+профиля&color=blue" />
 </p>
