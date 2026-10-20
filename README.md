@@ -65,16 +65,16 @@ Backend еб-приложения для тренировки памяти и к
 Сайт для реальной любительской мини-футбольной команды из Владимира. Проект включает публичный сайт, REST API, парсер данных с сайта городской Лиги (befutsal.ru) и prod-инфраструктуру.\
 `Python` `Django (DRF)` `PostgreSQL` `Docker` `Pytest` `Docker` `Nginx` `Gunicorn` `HTML` `GitHub Actions` `Ruff`
 
-**[Foodgram](https://github.com/Andrey-Dubov-25/foodgram)** - 
-веб-API сервиса публикации рецептов для интеграции фронтенда и бэкенда, обмен данными в формате JSON.\
-`Python` `Django (DRF)` `PostgreSQL` `Docker` `CI/CD`
-
-**[Grocery Store](https://github.com/Andrey-Dubov-25/grocery_store)** - 
-backend-сервис продуктового магазина на Django + DRF с PostgreSQL, документация API (Swagger), тесты.\
-`Python` `Django (DRF)` `Pytest` `PostgreSQL` `Docker` `Redoc`
+**[Deribit Price Service](https://github.com/Andrey-Dubov-25/deribit-price-service)** - 
+Сервис для сбора цен с криптобиржи Deribit и предоставления их через REST API.\
+`Python` `FastAPI` `SQLAlchemy 2 (async)` `Alembic` `Celery` `Redis` `aiohttp` `PostgreSQL` `Docker` `Pytest` `Ruff`
 
 **[Guild Quest Board](https://github.com/Andrey-Dubov-25/guild_quest_board)** - 
 backend-сервис для доски квестов фэнтези-гильдии на Django + DRF с PostgreSQL. Запуск через Docker Compose, документация API (Redoc), тесты бизнес-процессов.\
 `Python` `Django (DRF)` `Pytest` `PostgreSQL` `Docker` `Redoc`
+
+**[Booking](https://github.com/Andrey-Dubov-25/booking)** - 
+backend-сервис с применением LLM для ответов пользователям по вопросам бронирования отелей.\
+`Python` `FastAPI` `Groq`
 
 📂 Полный список проектов — в [портфолио](https://github.com/Andrey-Dubov-25/portfolio)
