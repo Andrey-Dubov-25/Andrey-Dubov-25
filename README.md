@@ -56,13 +56,14 @@
 
 ### 📌 Проекты
 
-**[Guild Quest Board](https://github.com/Andrey-Dubov-25/guild_quest_board)** - 
-backend-сервис для доски квестов фэнтези-гильдии на Django + DRF с PostgreSQL. Запуск через Docker Compose, документация API (Redoc), тесты бизнес-процессов.\
-`Python` `Django (DRF)` `Pytest` `PostgreSQL` `Docker` `Redoc`
+**[Memory Test](https://github.com/Andrey-Dubov-25/portfolio/blob/main/сertificates/Тренажер%20памяти.pdf)** - 
+Backend еб-приложения для тренировки памяти и когнитивных функций пользователей старшего возраста.\
+`Python` `Django (DRF)` `PostgreSQL` `Docker` `Pytest` `OpenAPI`
 
-**[MyLibrary](https://github.com/Andrey-Dubov-25/my_library)** - 
-REST API для управления списком книг: добавление, поиск, обновление и удаление записей.\
-`Python` `FastAPI` `SQLAlchemy` `aiosqlite`
+
+**[МФК «Восход»](https://github.com/Andrey-Dubov-25/futsal_team)** - 
+Сайт для реальной любительской мини-футбольной команды из Владимира. Проект включает публичный сайт, REST API, парсер данных с сайта городской Лиги (befutsal.ru) и prod-инфраструктуру.\
+`Python` `Django (DRF)` `PostgreSQL` `Docker` `Pytest` `Docker` `Nginx` `Gunicorn` `HTML` `GitHub Actions` `Ruff`
 
 **[Foodgram](https://github.com/Andrey-Dubov-25/foodgram)** - 
 веб-API сервиса публикации рецептов для интеграции фронтенда и бэкенда, обмен данными в формате JSON.\
@@ -72,8 +73,8 @@ REST API для управления списком книг: добавлени
 backend-сервис продуктового магазина на Django + DRF с PostgreSQL, документация API (Swagger), тесты.\
 `Python` `Django (DRF)` `Pytest` `PostgreSQL` `Docker` `Redoc`
 
-**[Departments](https://github.com/Andrey-Dubov-25/departments)** - 
-API для управления подразделениями и сотрудниками: защита от циклических ссылок, каскадное удаление, построение дерева подразделений рекурсивным подходом.\
+**[Guild Quest Board](https://github.com/Andrey-Dubov-25/guild_quest_board)** - 
+backend-сервис для доски квестов фэнтези-гильдии на Django + DRF с PostgreSQL. Запуск через Docker Compose, документация API (Redoc), тесты бизнес-процессов.\
 `Python` `Django (DRF)` `Pytest` `PostgreSQL` `Docker` `Redoc`
 
 📂 Полный список проектов — в [портфолио](https://github.com/Andrey-Dubov-25/portfolio)
