@@ -57,16 +57,16 @@
 ### 📌 Проекты
 
 **[Memory Test](https://github.com/Andrey-Dubov-25/portfolio/blob/main/сertificates/Тренажер%20памяти.pdf)** - 
-Backend еб-приложения для тренировки памяти и когнитивных функций пользователей старшего возраста.\
+backend еб-приложения для тренировки памяти и когнитивных функций пользователей старшего возраста.\
 `Python` `Django (DRF)` `PostgreSQL` `Docker` `Pytest` `OpenAPI`
 
 
 **[МФК «Восход»](https://github.com/Andrey-Dubov-25/futsal_team)** - 
-Сайт для реальной любительской мини-футбольной команды из Владимира. Проект включает публичный сайт, REST API, парсер данных с сайта городской Лиги (befutsal.ru) и prod-инфраструктуру.\
+сайт для реальной любительской мини-футбольной команды из Владимира. Проект включает публичный сайт, REST API, парсер данных с сайта городской Лиги (befutsal.ru) и prod-инфраструктуру.\
 `Python` `Django (DRF)` `PostgreSQL` `Docker` `Pytest` `Docker` `Nginx` `Gunicorn` `HTML` `GitHub Actions` `Ruff`
 
 **[Deribit Price Service](https://github.com/Andrey-Dubov-25/deribit-price-service)** - 
-Сервис для сбора цен с криптобиржи Deribit и предоставления их через REST API.\
+сервис для сбора цен с криптобиржи Deribit и предоставления их через REST API.\
 `Python` `FastAPI` `SQLAlchemy 2 (async)` `Alembic` `Celery` `Redis` `aiohttp` `PostgreSQL` `Docker` `Pytest` `Ruff`
 
 **[Guild Quest Board](https://github.com/Andrey-Dubov-25/guild_quest_board)** - 
